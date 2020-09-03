@@ -3931,8 +3931,16 @@ img {
     padding: 0 !important;
 }
 
+.hero-area {
+    height: 70vh;
+    background-color: #fffcf7;
+}
+
 @media only screen and (max-width: 600px) {
     .p-sm-0 {
         padding: 0 !important;
+    }
+    .hero-area {
+        height: auto !important;
     }
 }
