@@ -3944,3 +3944,7 @@ img {
         height: auto !important;
     }
 }
+
+.logo>a>img {
+    max-height: 100px !important;
+}
